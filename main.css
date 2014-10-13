@@ -1,0 +1,23 @@
+body {
+	background-color: #eaeaea;
+}
+.content{
+	position: absolute;
+	left: 5%;
+	top: 2%;
+	width: 90vw;
+	height: 55vh;
+}
+.content p{
+	font: 400 36px/1.4 'cardo';
+    font-style: italic;
+    text-align: center;
+}
+.button{
+	position: absolute;
+	bottom: 10%;
+	left: 44%;
+}
+.button img{
+	width: 150px;
+}
