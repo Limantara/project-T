@@ -1,4 +1,5 @@
 var recognition;
+
 if (!('webkitSpeechRecognition' in window)) {
 	alert('Cannot access the speech recognition API.  Are you using Chrome 25+ ?');
 } else {
